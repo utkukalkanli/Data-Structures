@@ -1,0 +1,5 @@
+total word count is 8632
+tree height is 16
+most frequent: the 3623
+least frequent: youngster 3623
+standart deviation is 66.7458
