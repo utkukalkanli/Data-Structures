@@ -1,0 +1,15 @@
+﻿  hw2.cpp
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\hw2.cpp(75): warning C4018: '>=': signed/unsigned mismatch
+  main.cpp
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(20): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Visual Studio Code\CS202\HW\HW2\hw2\BinarySearchTree.h(38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  hw2.vcxproj -> C:\Visual Studio Code\CS202\HW\HW2\hw2\Debug\hw2.exe
